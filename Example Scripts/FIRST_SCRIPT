@@ -81,6 +81,9 @@ done
 echo "FIRST processing completed for all subjects."
 
 
+## SAVE SCRIPT AS: run_FIRST.sh
+
+
 ## HOW TO RUN:
  ## 1. Make script executable:
 chmod +x run_first.sh
